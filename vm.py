@@ -9,6 +9,7 @@ import operator
 import types
 import typing as tp
 
+
 CO_VARARGS = 4
 CO_VARKEYWORDS = 8
 
